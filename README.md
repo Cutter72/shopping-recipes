@@ -1,5 +1,7 @@
 # ShoppingRecipes
 
+Project for learning purposes. Based on [Angular course](https://www.udemy.com/course/the-complete-guide-to-angular-2/) from udemy.com.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
 
 ## Development server
